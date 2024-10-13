@@ -1,8 +1,8 @@
 @extends('master')
 @section('content')
 <div class ="container custom-login">
-    <div class="row">
-        <div class="col-sm-4 col-sm-offset-4">
+    <div class="row justify-content-center">
+        <div class="col-sm-4">
             <form>
                 <div class="mb-3">
                   <label for="exampleInputEmail1" class="form-label">Email address</label>
